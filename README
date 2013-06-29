@@ -1,9 +1,4 @@
 This plugin is a kick start of connecting social accounts to your croogo applications
 For instructions visit here : http://www.appsbender.com/blog/quick-and-dirty-hybridauth-implementations-with-croogo-15
 
-<h3>Love this Plugin? Buy me a coffee ;) ...</h3>
-<script src="paypal-button.min.js?merchant=regz24@gmail.com"
-    data-button="donate"
-    data-name="My donation"
-    data-amount="5.00"
-></script>
+Note: This implementations is basic only. Please fill free to add your idea and codes here.
