@@ -1,0 +1,1 @@
+<?php CroogoRouter::connect('/connect_with/*', array('plugin' => 'connections', 'controller' => 'connections', 'action' => 'authenticatewith')); ?>

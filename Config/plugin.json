@@ -1,0 +1,15 @@
+{
+    "name": "Connections",
+    "description": "Plugin for Social Login using HybridAuth.",
+
+    "author": "Appsbender",
+    "authorEmail": "regz24@gmail.com",
+    "authorUrl": "www.appsbender.com",
+
+    "dependencies": {
+        "plugins": [
+        "acl",
+        "extensions"
+        ]
+    }
+}
