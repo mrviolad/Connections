@@ -1,1 +1,4 @@
 This plugin is a kick start of connecting social accounts to your croogo applications
+For instructions visit here : http://www.appsbender.com/blog/quick-and-dirty-hybridauth-implementations-with-croogo-15
+
+Note: This implementations is basic only. Please fill free to add your idea and codes here.
